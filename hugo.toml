@@ -1,0 +1,26 @@
+baseURL = 'https://markbeachill.github.io/site-showmewhatson/'
+languageCode = 'en-us'
+title = 'Proof-Reading'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ## mainSections = []
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about-us"
+    name = "About Us/"
+    url = "/about-us/"
+    weight = 30
+
+
