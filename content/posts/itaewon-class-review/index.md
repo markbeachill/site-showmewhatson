@@ -12,6 +12,8 @@ categories:
 coverImage: "Itewan-Class.jpg"
 ---
 
+**Kat Badoova** 28 April 2020
+
 _Itaewon Class_ is a Korean revenge drama, recently released and ripe for bingeing.
 
 It joins an ever-increasing collection of “K-dramas” on Netflix and includes all the foodie-delights, sumptuous fashion and bucking against the rigidities of class and cultural conformity we’ve come to expect from South Korean TV & cinema.

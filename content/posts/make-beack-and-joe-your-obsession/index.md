@@ -11,6 +11,8 @@ categories:
 coverImage: "20200506_134223.jpg"
 ---
 
+**Miray Zumrutel** 6 May 2020
+
 _You_ is a crazy tale of obession full of sudden unexpected twists and turns that test the depths of human behaviour, all present beneath the pleasant exterior and inside the thoughts of Joe Goldberg, an innocent ‘next-door neighbour’, 'wouldn't hurt a fly' type of guy.
 
 Joe is an everyday book store manager, a nice guy trying to live his life. But Joe has a little problem with obsession.

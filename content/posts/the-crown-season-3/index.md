@@ -15,6 +15,8 @@ categories:
 coverImage: "the-crown-season-3.jpg"
 ---
 
+**Elena Donatone** 28 April 2020
+
 If you have never particularly understood the hype around the British Royal family and its queen, I'm sure The Crown has never been on your binge-watch list.
 
 But what if I told you the royals form just part of an entire world of history and political scandals that awaits you? Season three of _The Crown_ is by far the best, praised both by critics and viewers. It was released at the end of last year and it surely is a masterpiece!

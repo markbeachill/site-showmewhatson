@@ -10,6 +10,8 @@ categories:
 coverImage: "20200515_163334.jpg"
 ---
 
+**Kat Badoova** 15 May 2020
+
 _Crash Landing On You_ (2019-2020) is a Korean drama that will make you feel every possible emotion there is. It's a drama filled with romance, comedy, action, drama and devastation. It also explores the reality of North and South Korea, leaving you shocked at how different the two countries are.
 
 You will need a couple of essentials while watching this show: a box of tissue, snacks, a blanket to stay warm and cosy and plenty of time because you will not leave your TV until you finish all 16 episodes!

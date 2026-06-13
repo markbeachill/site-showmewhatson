@@ -10,6 +10,8 @@ categories:
 coverImage: "IMG_20200503_181620_304.jpg"
 ---
 
+**Kat Badoova** 3 May 2020
+
 Here are four available-on-Netflix K-Dramas I would recommend for beginners. They will take you down the rabbit-hole of Korean craziness. Dont let me say I didn't warn you.
 
 **Fight For My Way**

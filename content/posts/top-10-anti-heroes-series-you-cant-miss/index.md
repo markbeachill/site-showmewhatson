@@ -19,6 +19,8 @@ categories:
 coverImage: "IMG-20200430-WA0012.jpg"
 ---
 
+**Lucas Ribeiro Dos Santos** 30 April 2020
+
 One thing you can say about bad guys: they are never boring. Here are 9 of the best!
 
 **1.** **The Boys**

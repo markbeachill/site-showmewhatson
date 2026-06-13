@@ -9,6 +9,8 @@ categories:
 coverImage: "20200517_181423.jpg"
 ---
 
+**Gaia Pini** 17 May 2020
+
 Teen dramas are great because teens, whose emotions are unaffected by experience, have the flush of new discovery.
 
 And this one, Spanish thriller drama _Élite_, now in its third season has added mystery and darkness.

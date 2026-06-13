@@ -10,6 +10,8 @@ categories:
 coverImage: "Screen-Shot-2020-05-22-at-15.52.50.png"
 ---
 
+**Sevcan Yasa** 23 May 2020
+
 I was one of those people who had never watched _Friends_. Until my sister convinced me.
 
 So let me do you a favour and push you a little because I really didn't think I would end up loving it and watching it as much as I do.

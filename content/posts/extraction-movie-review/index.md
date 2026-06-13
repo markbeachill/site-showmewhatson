@@ -11,6 +11,8 @@ categories:
 coverImage: "extraction-wow.jpg"
 ---
 
+**Dekan Apajee** 28 April 2020
+
 Broken bones, headshots, badass baddies, double crossing villains, antiheroes! There’s nothing that _Extraction_ doesn’t have by the bucket load.
 
 Starring Australian heartthrob and intergalactic god of thunder Chris Hemsworth, Extraction takes you on a fast-moving rollercoaster of first-person shoot-em-up and eye-piercing assault rifle bullets hitting the ground.

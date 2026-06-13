@@ -9,6 +9,8 @@ categories:
 coverImage: "20200507_194006.jpg"
 ---
 
+**Lulu zen-Aloush** 7 May 2020
+
 _Winter Sun_ (2016) is a Turkish drama like no other. It's not a typical love story like the series _Kara Sevda_. Rather it explores the values of Turkey’s competing cultural factions, those of conservative traditionalists on the one side and modernisers associated with the West on the other.
 
 The show is about Efe, adopted age 7, who is searching for his original family. Now 27, he discovers his identical twin brother, Mete, and his mother and relatives.

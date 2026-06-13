@@ -10,6 +10,8 @@ categories:
 coverImage: "good-doctor-season-3-episode-11.jpg"
 ---
 
+**Ava Rogha** 4 May 2020
+
 Going "under the knife" means trusting a surgeon. If your surgeon was autistic would that give you pause for thought?
 
 In the _The Good Doctor_ (2017 — present) one such autistic young man, Dr. Shaun Murphy, moves from Wyoming, middle America, to San Jose, in sunny California to pursue his career as a surgeon.

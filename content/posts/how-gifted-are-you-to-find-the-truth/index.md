@@ -7,6 +7,8 @@ categories:
 coverImage: "MV5BNTM2NTc3NmMtZjhiMy00Njg0LThiMzctMjI5ZWFjOGNkMWI5XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY1200_CR11306301200_AL_-e1591455509868.jpg"
 ---
 
+**irmak** 5 May 2020
+
 In _The Gift_, a Turkish drama fantasy series, Atiye is an artist compelled to draw the same mystery symbol over and over again.
 
 Unable to rest, she must throw off her current life and go on a journey to uncover her family’s secrets and understand what the symbol means.

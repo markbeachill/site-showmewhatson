@@ -15,6 +15,8 @@ categories:
 coverImage: "unorthodox-still-2.png"
 ---
 
+**Eda Tozan** 27 April 2020
+
 _Unorthodox_ is a Netflix mini-series that aired end of March 2020. It consists of four gripping episodes that leave you wanting more. The series is based on Deborah Feldsman´s autobiography and the main character Esther Shapiro, also known as Esty, is being played by Shira Haas. Shira Haas is doing an amazing job playing the role of ‘Esty’, which is one of the reasons why the series feels so authentic. She hasn´t had any big acting roles before this, but I am hopeful we will see more of her in the future.  
 
 > You find yourself wanting to step in and help

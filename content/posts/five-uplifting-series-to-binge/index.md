@@ -19,6 +19,8 @@ categories:
 coverImage: "five-up-lifters.jpg"
 ---
 
+**Elena Donatone** 4 May 2020
+
 Feeling down because of the lockdown, or simply in need of a laugh? Here are five series to boost your mood instantly!
 
   

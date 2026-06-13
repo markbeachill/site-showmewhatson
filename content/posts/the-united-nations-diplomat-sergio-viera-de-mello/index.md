@@ -14,6 +14,8 @@ tags:
 coverImage: "Screenshot-2020-04-07-at-11.33.44.jpg"
 ---
 
+**Pedro** 6 May 2020
+
 _Sergio_ (2020) tells the story of the life of Sérgio Vieira de Mello, Brazilian UN diplomat and self-styled 'UN High Commissioner for human rights’.
 
 Sérgio is lying in the rubble in Iraq, fighting for his life. How did it come to this? Will he survive?

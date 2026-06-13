@@ -14,6 +14,8 @@ categories:
 coverImage: "20200428_203328.jpg"
 ---
 
+**Elena Donatone** 28 April 2020
+
   
 It's easy to side with heroes. But what about the villain's rage and motives? This series makes you consider this question. _Money Heist_ (La Casa De Papel) is a Spanish crime series and one of the most-watched international shows on Netflix.
 

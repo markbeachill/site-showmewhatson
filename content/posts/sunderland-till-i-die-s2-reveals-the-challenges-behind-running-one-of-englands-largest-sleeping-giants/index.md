@@ -14,6 +14,8 @@ categories:
 coverImage: "sunderland-till-i-die.jpg"
 ---
 
+**JamieBrown** 7 May 2020
+
 For many places, especially for Sunderland, football has a far deeper meaning than just a 90-minute match every Saturday afternoon.
 
 And the sports docuseries _Sunderland 'Til I Die Season 2_ (2020) makes that clear as it follows the ins and outs of Sunderland Football Club who were at the lowest point (so far) in their 141 year history. They desperately want to climb back up to wipe the smile off the faces of their flashy Newcastle neighbours, and to bring the city together in pride.

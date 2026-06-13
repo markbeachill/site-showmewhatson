@@ -10,6 +10,8 @@ categories:
 coverImage: "download-5.jpg"
 ---
 
+**Robin John Mahr** 5 May 2020
+
 Netflix’s _Outlaw King_ and _The King_ are two feasts for lovers of medieval history, intrigue and battle. They have big budgets, armies of extras, and realistic and impressive fighting. We are truly blessed to witness this new Golden Age of television.
 
 In _Outlaw King_, Robert the Bruce (Chris Pine) rebels for an independent Scotland against English rule imposed by King Edward I (Stephen Dillane). The plot, robust and engaging, sticks closely to the history and spiritually is a sequel to the tale of _Braveheart_ both historically and cinematically.

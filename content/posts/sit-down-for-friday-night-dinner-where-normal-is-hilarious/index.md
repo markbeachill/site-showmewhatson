@@ -12,6 +12,8 @@ categories:
 coverImage: "friday_night_dinner_channel_4_1421746.jpg"
 ---
 
+**JamieBrown** 23 May 2020
+
 Shalom! Each Friday night we are welcomed into the Goodman’s household to find out how they manage to spectacularly derail their traditional Jewish family meal. And it is Jewish, sort-of, but really its the traditional Sunday lunch on a Friday night.
 
 _Friday Night Dinner_ (2011-2020) makes the normal - okay the slightly eccentric - hillarious. Plotliines can range from a spill on the carpet, to throwing away old magazines, to a new caravan, to new girlfriends for the boys - but these test how the family puts up with one another and whether they will, finally, get to sit down to eat. And so what the show so often really captures along the way is how excruciating family life can be.

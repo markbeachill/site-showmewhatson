@@ -9,6 +9,8 @@ categories:
 coverImage: "cap-3-e1590736623677.jpg"
 ---
 
+**Lulu zen-Aloush** 21 May 2020
+
 The _Caliphate_ (2020-present) is a thriller drama series that will give you gut-punches of shock and claustrophic fear for those under the thumb of the caliphate in Raqqa, Syria.
 
 The drama closely follows the lives of young girls in Sweden being manipulated into becoming jihadi brides for terror groups in Syria. These women become convinced that life in Raqqa under the capiphate is paradise - until they experience it for themselves.

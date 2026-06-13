@@ -13,6 +13,8 @@ categories:
 coverImage: "safe-netflix.jpg"
 ---
 
+**Elena Donatone** 28 April 2020
+
 If you enjoy suspense and working out who to trust then add _Safe_ to your binge-watch list.
 
 _Safe_ is a British drama miniseries released worldwide on Netflix in 2018 and a creation of the crime writer Harlan Conbden. Set in the London suburbs, it focuses on the disappearance of a teenage girl, Jenny (Amy James-Kelly), and the lengths her father, Tom (Michael C. Hall), will go to find and protect her.

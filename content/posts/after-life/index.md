@@ -12,6 +12,8 @@ categories:
 coverImage: "after-life-tonys-socialisation.jpg"
 ---
 
+**Adam Powley** 13 May 2020
+
 You may know Ricky Gervais for his brutally honest putdowns of the Hollywood and TV elite when hosting awards ceremonies or perhaps for his opinionated social media postings.
 
 In these Gervais divides opinion. For his huge and voluble fan base he’s a staunch truth merchant cutting through hypocrisy and sanctimony. For others, he’s crass loudmouth in love with the sound of his own opinion.

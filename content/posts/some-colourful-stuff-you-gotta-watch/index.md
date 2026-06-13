@@ -16,6 +16,8 @@ categories:
 coverImage: "bojack-horseman-2-980x620-1-e1589539463513.jpg"
 ---
 
+**irmak** 10 May 2020
+
 Dont normally watch animation? Here are four toons that will change your mind. I promise.\*
 
 _F is For Family_ - watch it or I'll throw you through the wall

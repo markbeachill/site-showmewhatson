@@ -8,6 +8,8 @@ categories:
 coverImage: "DA0FEA89-C36E-47B3-B9D6-43969E87CAFE.jpeg"
 ---
 
+**Michelle Asare** 10 June 2020
+
 _Grey’s Anatomy_ is entertaining _and_ educational - well it is a medical drama named after a textbook now in its 41st edition!
 
 I am now straggeringly well-informed about a number of medical terms - and you can be too. Oh would all my school biology lessons have been such fun and so informative! Perhaps I should consider becoming a doctor now I've watched so much. It'll be a doddle.

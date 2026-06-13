@@ -10,6 +10,8 @@ categories:
 coverImage: "The-Witcher-1.jpg"
 ---
 
+**Robin John Mahr** 30 May 2020
+
 _The Witcher_ is a sword and sorcery fantasy series set on the chaotic “Continent”, a world of competing human kingdoms, magicians, monsters and people struggling to make lives.
 
 So far perhaps so much like _Game of Thrones_. And if you are missing the show or still annoyed at the ending then _The Witcher_ may help.

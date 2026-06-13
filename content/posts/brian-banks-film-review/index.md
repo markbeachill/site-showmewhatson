@@ -15,6 +15,8 @@ categories:
 coverImage: "IMG-20200429-WA0008.jpg"
 ---
 
+**Lulu zen-Aloush** 29 April 2020
+
 If you enjoy films based on true stories that tell you why and how something surreal happened, then I suggest you sit back and enjoy _Brian Banks_.
 
 In 2002, Banks was wrongfully accused of rape by classmate Wanetta Gibson, his girlfriend at the time. He spent around six years in prison and another five on parole. The case was reopened in 2012 after his accuser confessed she had fabricated the entire story. The accusation was made after the couple "made out" at Long Beach, California's Polytechnic High School, but there was never sexual intercourse between the two. Wanetta and her mother sued the school over security and they received a staggering $1.5 million.

@@ -10,6 +10,8 @@ categories:
 coverImage: "20110906__contagion2-1.jpg"
 ---
 
+**Zuleica Rodriguez** 11 May 2020
+
 Trying to make sense of living in Covid-19 lockdown?
 
 Then consider watching _Contagion_ (2011), a movie about a viral pandemic outbreak which Netflix astutely added to its catalogue shortly after the current coronavirus outbreak.

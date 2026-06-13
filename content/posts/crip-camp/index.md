@@ -13,6 +13,8 @@ categories:
 coverImage: "thumbnail_Image-1.jpg"
 ---
 
+**Michelle Harris** 12 May 2020
+
 You really don’t want to miss this documentary.
 
 It shows how a few people, infused with the spirit of the 1970s and often severely disabled, took on the US government and won rights that will echo down the ages.

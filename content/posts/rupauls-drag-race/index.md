@@ -14,6 +14,8 @@ categories:
 coverImage: "20200515_172325.jpg"
 ---
 
+**Benedicty Sukama** 13 May 2020
+
 _RuPaul Drag Race_ (2009-present) is a carefree, weird, flamboyant - and unmissable - reality TV talent show for breakout drag queen stars.
 
 All 12 seasons, streamable now on Netflix, are jam packed with gay culture, colours, fashion and enormous personalities.

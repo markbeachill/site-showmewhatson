@@ -10,6 +10,8 @@ categories:
 coverImage: "5510293339_23c83ea8f3_n.jpg"
 ---
 
+**William Vincent** 7 May 2020
+
 _Ponyo_ is about the innocent love felt by children, the importance of relationships and the need to accept that things change.
 
 The film exudes charm and friendliness from its hand-drawn animations to the simplicity of the story.

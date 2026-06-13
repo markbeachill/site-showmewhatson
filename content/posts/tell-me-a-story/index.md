@@ -15,6 +15,8 @@ categories:
 coverImage: "tell-me-a-story-cbr-all-access-header.jpg"
 ---
 
+**Ava Rogha** 28 April 2020
+
 _Tell Me A Story_ (2018-present) is an American psychological thriller based on _Little Red Riding Hood_, _Hansel and Gretel_ and _The Three Little Pigs_. The second season revisits Disney classics to combine _Beauty And The Beast, Sleeping Beauty_ and _Cinderella_.
 
 One warning: I watched this in Norway under lockdown. There is not yet a UK distributer. It's only a matter of time - and I will update you here. But, currently, it's [DVD mail order](https://www.amazon.co.uk/Tell-Me-Story-Season-One/dp/B07TMRS3BD/ref=sr_1_2?crid=T1J7L2J4MJKR&dchild=1&keywords=tell+me+a+story+season+1&qid=1588549567&sprefix=tell+me+a+story%2Caps%2C148&sr=8-2) only in the UK!

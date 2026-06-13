@@ -11,6 +11,8 @@ categories:
 coverImage: "solo.jpg"
 ---
 
+**irmak** 21 May 2020
+
 The pandemic lockdown and social distancing is making us appreciate how important human company is.
 
 So, spare a thought for Alvaro Vizcaino in _Solo_ (2018).

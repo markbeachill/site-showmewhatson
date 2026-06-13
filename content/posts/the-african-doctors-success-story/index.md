@@ -10,6 +10,8 @@ categories:
 coverImage: "bienvenue_a_marly_gaumont.png"
 ---
 
+**Bathilde** 23 May 2020
+
 Ignorance and prejudice are not always grim. It turns out they can be very funny too – especially in retrospect.
 
 _The African Doctor_, a French movie, retraces the true story of a Zairan doctor who decides to move to very white 1970s rural France and recounts his humorous journey to integration.
