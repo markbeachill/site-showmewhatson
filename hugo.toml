@@ -1,6 +1,6 @@
-baseURL = 'https://markbeachill.github.io/site-showmewhatson/'
-languageCode = 'en-us'
-title = 'Show Me What's On - Archive Site'
+baseURL = "https://markbeachill.github.io/site-showmewhatson/"
+languageCode = "en-gb"
+title = "Show Me What's On - Archive Site"
 theme = "PaperMod"
 
 [params]
@@ -22,5 +22,6 @@ theme = "PaperMod"
     name = "About Us/"
     url = "/about-us/"
     weight = 30
+    
 
 
