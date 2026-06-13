@@ -1,6 +1,6 @@
 baseURL = 'https://markbeachill.github.io/site-showmewhatson/'
 languageCode = 'en-us'
-title = 'Proof-Reading'
+title = 'Show Me What's On - Archive Site'
 theme = "PaperMod"
 
 [params]
